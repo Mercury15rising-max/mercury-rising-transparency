@@ -11,6 +11,8 @@ Welcome to the official Mercury Rising public transparency repository. This proj
 | [Community rewards allocation](docs/community-allocation.md) | The 100,000,000 MERC designated for giveaways, contests, and gaming prizes |
 | [Treasury transparency](docs/treasury-transparency.md) | Planned public wallet and transaction reporting, privacy and security practices |
 | [Tokenomics](docs/tokenomics.md) | Currently stated allocation figures and outstanding verification items |
+| [On-chain verification checklist](docs/on-chain-verification.md) | Preliminary identifiers and verification requirements |
+| [October 14 on-chain investigation](docs/on-chain-investigation-2026-10-14.md) | Independent lookup attempt, evidence gaps, and reconciliation status |
 | [Transparency changelog](TRANSPARENCY_CHANGELOG.md) | Dated history of public disclosure updates |
 
 ## Key disclosures
